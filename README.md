@@ -58,10 +58,22 @@ F1 Score
 🏆 Kaggle Result
 
 Best Public Score: 0.81684
+📂 Dataset
+
+The dataset used in this project is publicly available on Kaggle.
+
+**Source:** https://www.kaggle.com/competitions/playground-series-s6e5/data>
+
+Due to GitHub's file size limitations, the dataset is not included in this repository.
+
+### Download Instructions
+
+1. Visit the Kaggle dataset page.
+2. Download `train.csv` and `test.csv`.
+3. Place both files in the project root:
+
 
 The best-performing model was selected using MLflow and used for generating the Kaggle submission.
 <img width="959" height="443" alt="image" src="https://github.com/user-attachments/assets/0e7ea896-059a-416f-afc8-93e71b430b48" />
 <img width="957" height="446" alt="image" src="https://github.com/user-attachments/assets/3c9870dd-c481-4e3d-8759-400905aa38f8" />
 <img width="752" height="375" alt="image" src="https://github.com/user-attachments/assets/52d3906a-feed-4b87-b86c-35a1e26489af" />
-
-
